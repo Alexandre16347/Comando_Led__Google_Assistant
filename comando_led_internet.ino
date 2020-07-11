@@ -7,8 +7,8 @@
 #define Rele3            D3
 #define Rele4            D4
 
-#define WLAN_SSID       "Grafica"             // Your SSID
-#define WLAN_PASS       "gr@fica1"        // Your password
+#define WLAN_SSID       "Nome_da_sua_rede"             // Your SSID
+#define WLAN_PASS       "Sus_senha"        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
