@@ -2,7 +2,7 @@
 
 Para saber passo a passo de como utilizar o codigo entre nesse site: https://www.youtube.com/watch?v=ebvNVYJvPUA
 
-Para utilizar o codigo primeiro você deve criar uma conta no io.adfruit.com;
+Para utilizar o codigo primeiro você deve criar uma conta no (io.adafruit.com)[https://io.adafruit.com/];
 Logo após criar um dashboard, em seguida criar um botao liga desliga. Editar o botao para retornar 0 ou 1;
 Feito isso, clique na chavinha no lado direito copie e cole seu usuario e chave no codigo arduino;
 
